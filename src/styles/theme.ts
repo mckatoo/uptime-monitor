@@ -25,13 +25,13 @@ export default {
   colors: {
     primary: '#ED3237',
     secondary: '#3CD3C1',
-    mainBg: '#383A47',
+    mainBg: '#232642',
     lightBg: '#F2F2F2',
     white: '#FAFAFA',
     black: '#232642',
     lightGray: '#D8DBE2',
-    gray: '#A9BCD0',
-    darkGray: '#363537',
+    gray: '#363537',
+    darkGray: '#383A47',
     red: '#F98A05'
   },
   spacings: {
