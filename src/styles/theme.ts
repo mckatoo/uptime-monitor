@@ -23,16 +23,16 @@ export default {
     }
   },
   colors: {
-    primary: '#F231A5',
+    primary: '#ED3237',
     secondary: '#3CD3C1',
-    mainBg: '#06092B',
+    mainBg: '#383A47',
     lightBg: '#F2F2F2',
     white: '#FAFAFA',
-    black: '#030517',
-    lightGray: '#EAEAEA',
-    gray: '#8F8F8F',
-    darkGray: '#2E2F42',
-    red: '#FF6347'
+    black: '#232642',
+    lightGray: '#D8DBE2',
+    gray: '#A9BCD0',
+    darkGray: '#363537',
+    red: '#F98A05'
   },
   spacings: {
     xxsmall: '0.8rem',
