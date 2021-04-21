@@ -19,7 +19,7 @@ describe('<Logo />', () => {
   it('should render a black label when color is passed', () => {
     renderWithTheme(<Logo color="black" />)
     expect(screen.getByLabelText(/Uniesi/i).parentElement).toHaveStyle({
-      color: '#030517'
+      color: '#232642'
     })
   })
 
